@@ -21,8 +21,8 @@ Describe what your project does, its purpose, and the problem it solves.
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Attend
+- Allowence
 - Feature 3
 
 ## Installation
